@@ -2,7 +2,7 @@
 
 **Status:** Draft  
 **Date:** 2026-02-13  
-**Authors:** SanctumAI Contributors  
+**Authors:** Jason Gale (SanctumAI)  
 **Target:** Model Context Protocol (MCP) Working Group  
 
 ---
